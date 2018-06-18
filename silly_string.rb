@@ -1,19 +1,19 @@
 
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = ""
+your_favorite_word = "slushie"
 
-puts "My favorite word is #{your_favorite_word}"
+puts "slushie #{empowerment}"
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
 favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite word and use a String method.
 
-puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
+puts "slushie #{favorite_word_in_all_caps}"
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 
-phrase = "IM NOT SHOUTING"
+phrase = "i like sea turtles"
 
 lowercased_phrase = phrase # Put a . after phrase and use a String method.
 
@@ -21,11 +21,11 @@ puts lowercased_phrase
 
 # Challenge 4: Count how many letters are in that big_word
 
-big_word = "supercalifragilisticexpialidocious"
+big_word = "supercalifragilististicexpialidociuos"
 
 letter_count = big_word # Put a . after big_word and use a String method.
 
-puts "There are #{letter_count} in #{big_word}"
+puts "34#{letter_count} in #{big_word}"
 
 # Challenge 5: Add "wow" and "mom" to big_word
 
@@ -33,7 +33,7 @@ bigger_word = big_word # Use String concatenation to add "wow" and "mom" to big_
 
 new_letter_count = bigger_word.size
 
-puts "There are now #{new_letter_count} in #{bigger_word}"
+puts "T#{new_letter_count} in #{bigger_word}"
 
 # Challenge 6: Capitalize this sentence properly
 
